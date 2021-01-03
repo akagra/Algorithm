@@ -1,0 +1,32 @@
+I have completed high school from Saint dominic savio college and secured 58.2% in my high school.At the time of my senior secondary
+I have switched it to Macro vision academy and secured 75.2%.After my schooling I have opted to take break of 1 year for comptetive
+exam JEE and secured 1,70000 rank out of 1400000 students.I have started my graduation from Lakshmi Narain college of technology &
+science in accompany with that I have participated in various hackathons happening online and various extra cirricular activities
+during the ongoing cirricullum. During my schooling I have participated in national children science congress with the group of 4 people
+and has been honoured with 1st position in whole of the district,After that we have presented whole of the project at state level where
+we are honoured with reputation of state child scientist.As well as I was the part of scout group which pedagogue me with basic leadership
+skill.
+
+At the commence of my engineering in 1st sem I have discovered various fields and attended the Deep learning seminar hosted
+by NVIDIA in IIT Bombay which have enchanced my knowledge and provoke me towards getting more knowledge towards AI.In my 2nd sem I have 
+learned the basic prerequisite of programming and made myself aware of programming language c/c++.During my sophomore in the 
+former semester I have learned the oops based programming and started learning Java on which I have solved basic programming
+modules,which made me comfortable towards basic oops fundamental.In latter one I want to elucidate myself towards more knowledge
+and I have started learning J2EE and started to understand the working of enterprise application concomitantly I have attended
+a seminar on Bigdata and hadoop, which have showed the glimpse of handling large datasets and map reducing programming as well as
+I have done NPTEL certification hosted by IIT in "Programming data structure,algorithm through c" and achieve an elite certification.
+In the summer break I have grabbed an opportunity of being an Intern in "Netlink software pvt ltd" where I learned of basic working
+culture in corporate sector  and I was a java intern as well which have certified my knowlegde towards java.In the begnning of my 
+pre-final year I have(with the group of 4 members) presented two papers in conference accredited by IEEE named as "ICACT 2019" hosted by
+LNCT group of colleges.The paper has been titled as "Contemplation of machine learning algorithms under distinct datasets." .And 2nd one titled
+as "Prediction and analysis of student Performance using Hybrid model of Multilayer perceptron and Random forest".At the end of this semester
+I have completed two NPTEL certification .First one in "Database management system" and scored a perfect elite batch followed by second certification
+"Design and Analysis of Algorithm" which is also termed as Elite.In the starting of the 6th semester I have attended the workshop "Deep learning and machine
+learning" hosted by Bennett univresity in collabration with Nvidia and Amazon AWS.In this semester I have learned version control through Git due to which
+the understanding of contributing to open source have developed in me.In the summer break I have completed a summer training in "Java" Hosted By CRISP.
+I have also completed a minor project "HAND GESTURE RECOGNITION"  based on machine learning and object detection due to which I have learned the working
+of library such as tensorflow,openCV etc.At the end of my 7th semester I have completed project named as "Breast cancer Detection " in which Jupyter notebook is used
+and Algorihms(SVM and KNN ) is used.
+
+
+
